@@ -1,0 +1,30 @@
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+    margin: 2em 10%;
+  }
+  
+  .noticia {
+    width: 30em;
+    background-color: white;
+    box-sizing: border-box;
+    padding: 1.5em;
+    margin-bottom: 1em;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+  }
+
+  .noticia .nacional {
+      background-color: bisque;
+  }
+  
+  .noticia img {
+    width: 100%;
+  }
+  
+  .noticia h2 {
+    font-size: 1em;
+    margin-bottom: .2em;
+  }
