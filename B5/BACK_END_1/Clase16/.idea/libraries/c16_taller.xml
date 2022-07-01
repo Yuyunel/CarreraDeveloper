@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="c16_taller">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/c15/c16_taller.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

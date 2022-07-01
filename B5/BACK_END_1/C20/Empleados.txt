@@ -1,0 +1,8 @@
+Yudi;Morales;123;2500.0
+Angel;Cuellar;456;600.5
+Jhonatan;Cuellar;876;2300.4
+Fiore;Tapiero;765;543.9
+Win;Savogal;987;135.9
+Emely;Hernandez;321;123.0
+Clara;Matriorca;654;2500.0
+Carla;Espada;379;567.9

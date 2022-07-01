@@ -1,0 +1,49 @@
+El promedio dió: 12
+El promedio dió: 12
+[2022-03-60 15:06:40] [ INFO ] [App:26] El promedio dió: 12
+[2022-03-66 00:28:40] [ INFO ] [App:33] El promedio dió: 12
+[2022-03-66 00:32:42] [ INFO ] [App:37] El promedio dió: 12
+[2022-03-66 00:32:42] [ INFO ] [App:37] El promedio dió: 12
+[2022-03-66 00:39:53] [ ERROR] [App:30] La lista es igual a cero
+[2022-03-66 00:39:53] [ INFO ] [App:39] El promedio dió: 12
+[2022-03-66 00:40:15] [ ERROR] [App:30] La lista es igual a cero
+[2022-03-66 00:40:15] [ INFO ] [App:39] El promedio dió: 12
+[2022-03-66 00:41:10] [ ERROR] [App:30] La lista es igual a cero
+[2022-03-66 00:41:10] [ INFO ] [App:39] El promedio dió: 12
+[2022-03-68 10:52:12] [ ERROR] [App:30] La lista es igual a cero
+[2022-03-68 10:52:12] [ INFO ] [App:39] El promedio dió: 12
+[2022-03-09 10:52:34] [ ERROR] [App:30] La lista es igual a cero
+[2022-03-09 10:52:34] [ INFO ] [App:39] El promedio dió: 12
+[2022-03-10 15:44:54] [ ERROR] [App:30] La lista es igual a cero
+[2022-03-10 15:44:54] [ INFO ] [App:39] El promedio dió: 12
+[2022-05-25 16:43:40] [ INFO ] [FlyweightFactory:16] Se ha creado un nuevo triangulo
+[2022-05-25 16:46:38] [ INFO ] [FlyweightFactory:16] Se ha creado un nuevo triangulo
+[2022-05-25 16:46:38] [ WARN ] [Triangulo:25] Cuidado, alguien a cambiando el tamaño del triangulocolor rojo, esto implica un cambio general.
+[2022-05-25 16:46:38] [ WARN ] [Triangulo:25] Cuidado, alguien a cambiando el tamaño del triangulocolor rojo, esto implica un cambio general.
+[2022-05-25 16:49:07] [ INFO ] [FlyweightFactory:16] Se ha creado un nuevo triangulo
+[2022-05-25 16:49:07] [ WARN ] [Triangulo:24] Cuidado, alguien a cambiando el tamaño del triangulocolor rojo
+, esto implica un cambio general.
+a modo de seguridad se registran los valores:
+valor anterior: 0
+valor nuevo: 2
+[2022-05-25 16:49:07] [ WARN ] [Triangulo:24] Cuidado, alguien a cambiando el tamaño del triangulocolor rojo
+, esto implica un cambio general.
+a modo de seguridad se registran los valores:
+valor anterior: 2
+valor nuevo: 4
+[2022-05-30 19:48:16] [ ERROR] [App:30] La lista es igual a cero
+[2022-05-30 19:48:16] [ INFO ] [App:39] El promedio dió: 12
+[2022-05-30 19:49:17] [ ERROR] [App:30] La lista es igual a cero
+[2022-05-30 19:49:17] [ INFO ] [App:39] El promedio dió: 12
+[2022-05-30 19:50:49] [ ERROR] [App:30] La lista es igual a cero
+[2022-05-30 19:50:49] [ INFO ] [App:39] El promedio dió: 12.0
+[2022-05-30 19:52:08] [ ERROR] [App:30] La lista es igual a cero
+[2022-05-30 19:52:08] [ INFO ] [App:39] El promedio dió: 13.0
+[2022-05-30 19:52:38] [ ERROR] [App:30] La lista es igual a cero
+[2022-05-30 19:52:38] [ INFO ] [App:40] El promedio dió: 12.0
+[2022-05-30 19:52:53] [ ERROR] [App:30] La lista es igual a cero
+[2022-05-30 19:52:53] [ INFO ] [App:41] El promedio dió: 12.0
+[2022-05-30 19:53:19] [ ERROR] [App:30] La lista es igual a cero
+[2022-05-30 19:53:19] [ INFO ] [App:42] El promedio dió: 12.0
+[2022-05-30 19:54:09] [ ERROR] [App:30] La lista es igual a cero
+[2022-05-30 19:54:09] [ INFO ] [App:42] El promedio dió: 12.5
